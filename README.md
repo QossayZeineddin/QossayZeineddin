@@ -17,6 +17,15 @@
 
 ---
 
+<!-- Technologies & Tools Section -->
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
+<!-- Add other technologies and tools in a similar manner -->
+
+---
+
 <!-- Stats Section -->
 ## 📊 Quick Overview 
 
@@ -28,6 +37,24 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QossayZeineddin&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt="QossayZeineddin's Top Languages" width=400 />
 </p>
+
+---
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+- [**My Awesome Project**](https://github.com/QossayZeineddin/my-awesome-project)
+- [**Another Great Repo**](https://github.com/QossayZeineddin/another-great-repo)
+<!-- Add more projects as needed -->
+
+---
+
+<!-- Achievements & Certifications -->
+## 🏆 Achievements & Certifications
+
+- **Data Engineering Certification** - Data Academy, 2022
+- **Python Advanced Course** - Python Institute, 2021
+<!-- Add more achievements and certifications as needed -->
 
 ---
 
