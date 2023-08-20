@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br />
 - :computer: studied Computer engineering  at Birziet universtiy 
 <br />
-- : Work as Data engineering  | Softwer engineering  at ASAL Tech
+-  Work as Data engineering  | Softwer engineering  at ASAL Tech
 <br />
 <h2 align="center">Quick Overview :chart_with_upwards_trend:</h2>
   <p align = "center">
