@@ -4,7 +4,7 @@
 <!-- Introduction -->
 ## 🌟 Welcome to Qossay ZeinEddin's Profile!
 
-**Qossay j.e ZeinEddin** - Passionate about Data and Software Engineering.
+**Qossay j.e ZeinEddin** - Passionate about Big Data and Software Engineering.
 
 ---
 
@@ -13,7 +13,7 @@
 
 - 👋 Hi there! I am Qossay j.e ZeinEddin.
 - 💻 Studied Computer Engineering at Birzeit University.
-- 🔍 Currently working as a Data Engineer and Software Engineer at ASAL Tech.
+- 🔍 Currently working as a Big Data & AI Engineer at Harri Tech.
 
 ---
 
